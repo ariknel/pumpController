@@ -29,7 +29,7 @@ Built by **Arik Nel**.
 
 ## Hardware
 
-- **Pinout(SOC ATmega328P-AU):**
+**Pinout ATmega328P-AU:**
 - Pulse LED (PD7
 - NTC (PTC0)
 - Trimpot (PC1)
