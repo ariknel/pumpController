@@ -26,3 +26,11 @@ Built by **Arik Nel**.
 - **Buck converter:** AP63200QWU-7, automotive-rated input range
 - **Motor driver:** AON6354 N-channel MOSFET, low-side PWM switching
 - **Input protection:** TVS diode, reverse-polarity diode, automotive fuse
+
+## Hardware
+
+- **Pinout(SOC ATmega328P-AU):**
+- Pulse LED (PD7
+- NTC (PTC0)
+- Trimpot (PC1)
+- Ext. Pot (PC2)
