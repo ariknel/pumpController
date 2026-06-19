@@ -5,6 +5,7 @@ A temperature-controlled cooling pump controller for 2-stroke and 4-stroke scoot
 Built by **Arik Nel**.
 
 ![3D Render](3d-render.PNG)
+![3D Render](3d-render-underside.PNG)
 <!-- ![Assembled Board](assembled-photo.png)n -->
 
 
