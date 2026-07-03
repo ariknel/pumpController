@@ -34,3 +34,13 @@ Built by **Arik Nel**.
 - NTC (PTC0)
 - Trimpot (PC1)
 - Ext. Pot (PC2)
+**Programming over ISP ATmega328P-AU:**
+| Function | Arduino Uno Pin | ATmega328PB 
+| RESET | D10 |
+| MOSI | D11 |
+| MISO | D12 |
+![Pinout ISP](ISP_PINS.PNG)
+| SCK | D13 |
+| VCC | 5V |
+| GND | GND |
+
