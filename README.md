@@ -35,7 +35,8 @@ Built by **Arik Nel**.
 - Trimpot (PC1)
 - Ext. Pot (PC2)
 **Programming over ISP ATmega328P-AU:**
-| Function | Arduino Uno Pin | ATmega328PB 
+|-----|-----------|
+| Function | Arduino Uno Pin |
 | RESET | D10 |
 | MOSI | D11 |
 | MISO | D12 |
