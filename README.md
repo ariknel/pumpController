@@ -39,8 +39,7 @@ Built by **Arik Nel**.
 | RESET | D10 |
 | MOSI | D11 |
 | MISO | D12 |
-![Pinout ISP](ISP_PINS.PNG)
 | SCK | D13 |
 | VCC | 5V |
 | GND | GND |
-
+![Pinout ISP](ISP_PINS.PNG)
