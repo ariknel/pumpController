@@ -34,6 +34,7 @@ Built by **Arik Nel**.
 - NTC (PTC0)
 - Trimpot (PC1)
 - Ext. Pot (PC2)
+
 **Programming over ISP ATmega328P-AU:**
 |-----|-----------|
 | Function | Arduino Uno Pin |
